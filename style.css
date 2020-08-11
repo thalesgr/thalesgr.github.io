@@ -1,0 +1,32 @@
+body {
+    font-family: 'dosis', sans-serif;
+    background-image: url(https://cdn.nohat.cc/thumb/f/720/6368359000047616.jpg);
+    
+}
+.cabecalho {
+    justify-content: space-between;
+    align-items: center; 
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.nome {
+    font-size: 40px;
+}
+.principal {
+    display: flex;
+    align-items: center;
+}
+.secundaria {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.skills {
+    justify-content: space-between;
+}
+
+@media (max-width: 560px) {
+    #profile-pic {
+        display: none;
+    }
+}

@@ -1,0 +1,11 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\PARSLEY\TRUELOVE]
+"InstallType"=dword:00000001
+"language"=dword:00000001
+"Title"="TRUE LOVE"
+"StartScenario"="MAIN"
+"DataDir"=".\\"
+"SaveDir"=".\\"
+"VoiceDir"=".\\"
+

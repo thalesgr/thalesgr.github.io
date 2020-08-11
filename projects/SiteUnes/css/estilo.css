@@ -1,0 +1,38 @@
+header div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px; 
+    margin-top: 20px;  
+}
+
+div a {
+    margin: 5px
+}
+.capa {
+    position: relative;
+    left: 16.5%;
+    scale: 0.99;
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+p, ol, input {
+    margin-left: 16.5%;
+    padding-bottom: 20px;
+    width: 65%;
+}
+.destaque {
+    font-size: 22px;
+    font-weight: bold;
+}
+.linhabaixo {
+    border-bottom: solid 1px gray;
+}
+button {
+    margin-left: 16.5%;
+}
+footer{
+    font-weight: bold;
+}
